@@ -113,6 +113,28 @@ I'm interested in the intersection of engineering, software, networking, and int
 </table>
 
 ---
+## 📄 My Resume
+
+<div align="center">
+
+### Dhanesh Gupta
+
+**Electrical Engineering Student | Developer | Tech Enthusiast**
+
+Interested in DevOps, networking, cybersecurity, backend development, and IoT.
+
+<br/>
+
+<a href="./Dhanesh_Gupta_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download-My_Resume-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download my resume"/>
+</a>
+
+<a href="./Dhanesh_Gupta_Resume.pdf">
+  <img src="https://img.shields.io/badge/View-Resume-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my resume"/>
+</a>
+
+</div>
+
 
 ## 🧰 Tech Stack & Tools
 
